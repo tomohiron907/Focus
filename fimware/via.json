@@ -1,0 +1,14 @@
+{
+    "name": "Focus",
+    "venderId": "0x464b",
+    "productId": "0x0002",
+    "matrix": {
+        "rows": 4,
+        "cols": 12
+    },
+    "layouts": {
+        "keymap":
+        
+    }
+
+}
