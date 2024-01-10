@@ -1,3 +1,3 @@
 # Focus
-A simple ortholine keyborad.
+A simple ortholinear keyborad.
 ![Focus image](img/Focus.jpg)
